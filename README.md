@@ -14,7 +14,7 @@ To use this application as a starting point for your Alexa project, you will nee
 
 Since I am new to Python, there are many things here that are not as Pythonistic as they probably need to be. The goal of the project was to learn the Alexa development environment and improve my python skills - not provide great code for others to model. I provide this here predominantly as an example of many of the Alexa environment interfaces and complexities.
 
-Note that there are some suboptimal techniques that are used due to my desire to keep the package small - most notably the use of archaic Debug/Print statements. Typically I would use the Pythin logger services, but there is just too much overhead and complexity to include the library. I may change my mind in the future.
+Note that there are some suboptimal techniques that are used due to my desire to keep the package small - most notably the use of archaic Debug/Print statements. Typically I would use the Python logger services, but there is just too much overhead and complexity to include the library. I may change my mind in the future.
 
 Also note that you will need to supply your own google geocode api key. I have stubbed it out of here.
 
